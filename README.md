@@ -1,4 +1,4 @@
-JGraphX
+JGraphX - teste
 =======
 
 This project is end of life.
